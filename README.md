@@ -1,75 +1,77 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello,%20I'm%20Ritik%20Thakur!&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20AI%20Enthusiast%20|%20Gamer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=240&section=header&text=Ritik%20Thakur&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Open-Source%20Builder&descSize=18&descAlignY=57" alt="Ritik Thakur — Computer Engineering Student and Open-Source Builder" />
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+one+commit+at+a+time.;C%23+%7C+Android+%7C+Linux+%7C+AI;Engineering+with+curiosity.+Gaming+with+precision." alt="Typing introduction" />
+  </a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Building+Open+Source+Apps;AI+%26+Linux+Enthusiast;Hardcore+Gamer" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <a href="https://t.me/ritik7094"><img src="https://img.shields.io/badge/Telegram-00B4D8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://ritikthakur.com.np"><img src="https://img.shields.io/badge/Portfolio-102A43?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="mailto:ritikthakur@duck.com"><img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=protonmail&logoColor=00D9FF" alt="Email" /></a>
+</div>
 
-<!-- About Me Section -->
-<table width="100%" border="0">
-  <tr>
-    <td width="65%">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>🎓 <b>Computer Engineering Student</b> currently completing my degree.</li>
-        <li>🚀 Actively building <b>open-source applications</b> and exploring <b>Artificial Intelligence</b>.</li>
-        <li>🐧 Best at <b>Linux</b>; highly experienced with <b>VPS</b> & <b>Operating Systems</b>.</li>
-        <li>🎮 Passionate <b>Gamer</b> when I'm not coding!</li>
-        <li>💻 Specialized in building <b>C# WinAPI apps</b> and custom panels.</li>
-        <li>🧠 Strong foundation in <b>Data Structures and Algorithms (DSA)</b>.</li>
-        <li>📫 Connect with me via email at <b><a href="mailto:ritikthakur@duck.com">ritikthakur@duck.com</a></b> or visit my site <b><a href="https://ritikthakur.com.np">ritikthakur.com.np</a></b>.</li>
-      </ul>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://raw.githubusercontent.com/7lovesgalaxy/7lovesgalaxy/master/Images/octocat_dev.gif" width="250" />
-    </td>
-  </tr>
-</table>
+<br />
 
-<!-- Skills Section -->
-<h3 align="center">🛠️ Tech Stack & Skills</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Using skillicons to provide beautiful, modern badges -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,linux,java,kotlin,js,html,css,git,bash,ubuntu,vscode&perline=7" />
-  </a>
-</p>
+## `> whoami`
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 My GitHub Activity</h3>
+```text
+ritik@github:~$ I turn engineering ideas into practical applications.
+```
 
-<p align="center">
-  <a href="https://github.com/ritikthakur22">
-    <img src="https://github-readme-stats.vercel.app/api?username=ritikthakur22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=36BCF7" width="48%" />
-  </a>
-  <a href="https://github.com/ritikthakur22">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ritikthakur22">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikthakur22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-</p>
+- 🎓 Computer Engineering student with a strong foundation in data structures and algorithms.
+- 🛠️ Building open-source apps across C#, Android, and the web.
+- 🐧 At home in Linux, VPS environments, and operating-system internals.
+- 🧠 Exploring applied AI and the systems that make software dependable.
+- 🎮 Gamer by passion; problem-solver by default.
 
-<!-- Footer / Connect -->
-<h3 align="center">🤝 Let's Connect</h3>
-
-<p align="center">
-  <a href="mailto:ritikthakur@duck.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ritikthakur.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritikthakur22&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+## `> stack --active`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,js,html,css,linux,bash,git,ubuntu,vscode&theme=dark&perline=7" alt="C, C++, C#, Python, Java, Kotlin, JavaScript, HTML, CSS, Linux, Bash, Git, Ubuntu, VS Code" />
+  </a>
+</div>
+
+## `> featured_projects`
+
+<div align="center">
+  <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
+  </a>
+  <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=com.ritikqrscanner.app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Ritik QR Scanner" />
+  </a>
+  <br />
+  <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=scientific-calcr-pro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Scientific Calcr Pro" />
+  </a>
+</div>
+
+## `> github --telemetry`
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikthakur22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3" alt="Ritik's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
+  <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikthakur22&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3" alt="Most-used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikthakur22&bg_color=050816&color=C9D6E3&line=00B4D8&point=00D9FF&area=true&hide_border=true" alt="Ritik's contribution graph" />
+</div>
+
+## `> contribution_grid --animate`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Ritik's contribution graph" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ritikthakur22&label=PROFILE+VIEWS&color=00B4D8&style=flat-square" alt="Profile views" />
+  <br /><br />
+  <i>"Stay curious. Keep shipping."</i>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=110&section=footer" alt="Footer wave" />
 </div>
