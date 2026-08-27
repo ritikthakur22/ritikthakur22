@@ -42,7 +42,6 @@ ritik@github:~$ I turn engineering ideas into practical applications.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
@@ -50,21 +49,21 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 
 <div align="center">
   <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=com.ritikqrscanner.app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Ritik QR Scanner" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=com.ritikqrscanner.app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Ritik QR Scanner" />
   </a>
   <a href="https://github.com/ritikthakur22/fastshare_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=fastshare_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare App" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=fastshare_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare App" />
   </a>
   <br />
   <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=scientific-calcr-pro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Scientific Calcr Pro" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=scientific-calcr-pro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Scientific Calcr Pro" />
   </a>
   <a href="https://github.com/ritikthakur22/FastShare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=FastShare&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare Site" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=FastShare&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare Site" />
   </a>
   <br />
   <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
   </a>
 </div>
 
