@@ -90,6 +90,10 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> github --telemetry`
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
 </div>
 
