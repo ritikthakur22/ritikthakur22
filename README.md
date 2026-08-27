@@ -43,6 +43,7 @@ ritik@github:~$ I turn engineering ideas into practical applications.
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
 
 ## `> featured_projects`
@@ -84,6 +85,18 @@ ritik@github:~$ I turn engineering ideas into practical applications.
       </td>
     </tr>
   </table>
+</div>
+
+## `> github --telemetry`
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
+</div>
+
+## `> contribution_grid --animate`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Ritik's contribution graph" />
 </div>
 
 <div align="center">
