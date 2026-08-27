@@ -48,23 +48,42 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> featured_projects`
 
 <div align="center">
-  <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=com.ritikqrscanner.app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Ritik QR Scanner" />
-  </a>
-  <a href="https://github.com/ritikthakur22/fastshare_app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=fastshare_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare App" />
-  </a>
-  <br />
-  <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=scientific-calcr-pro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Scientific Calcr Pro" />
-  </a>
-  <a href="https://github.com/ritikthakur22/FastShare">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=FastShare&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare Site" />
-  </a>
-  <br />
-  <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
+          <img src="assets/qr_scanner.png" alt="Ritik QR Scanner" width="120" />
+          <br /><b>QR Scanner</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ritikthakur22/fastshare_app">
+          <img src="assets/fastshare_app.png" alt="FastShare App" width="120" />
+          <br /><b>FastShare App</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
+          <img src="assets/scientific_calcr_logo.jpg" alt="Scientific Calcr Pro" width="120" />
+          <br /><b>Scientific Calcr</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ritikthakur22/FastShare">
+          <img src="assets/fastshare_site.png" alt="FastShare Site" width="120" />
+          <br /><b>FastShare Web</b>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
+          <img src="assets/wifi_analyzer_logo.jpg" alt="WiFi Analyzer App" width="120" />
+          <br /><b>WiFi Analyzer</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
