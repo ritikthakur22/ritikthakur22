@@ -90,7 +90,8 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> github --telemetry`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-metrics.svg" alt="GitHub Metrics" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikthakur22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3" alt="Ritik's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikthakur22&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3" alt="Most-used languages" />
 </div>
 
 <div align="center">
