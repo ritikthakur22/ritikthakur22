@@ -96,7 +96,7 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> contribution_grid --animate`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Ritik's contribution graph" />
+  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" alt="Animated snake moving through Ritik's contribution graph" />
 </div>
 
 <div align="center">
