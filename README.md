@@ -90,11 +90,6 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> github --telemetry`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ritikthakur22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3" alt="Ritik's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ritikthakur22&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3" alt="Most-used languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
 </div>
 
