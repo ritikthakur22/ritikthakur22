@@ -29,43 +29,43 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> stack --active`
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,js,html,css,linux,bash,git,ubuntu,vscode&theme=dark&perline=7" alt="C, C++, C#, Python, Java, Kotlin, JavaScript, HTML, CSS, Linux, Bash, Git, Ubuntu, VS Code" />
-  </a>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <br />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ## `> featured_projects`
 
 <div align="center">
-  <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
-  </a>
   <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=com.ritikqrscanner.app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Ritik QR Scanner" />
+  </a>
+  <a href="https://github.com/ritikthakur22/fastshare_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=fastshare_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare App" />
   </a>
   <br />
   <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=scientific-calcr-pro&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="Scientific Calcr Pro" />
   </a>
-</div>
-
-## `> github --telemetry`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ritikthakur22&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D6E3" alt="Ritik's GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
+  <a href="https://github.com/ritikthakur22/FastShare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=FastShare&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="FastShare Site" />
+  </a>
   <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikthakur22&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D6E3" alt="Most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritikthakur22&bg_color=050816&color=C9D6E3&line=00B4D8&point=00D9FF&area=true&hide_border=true" alt="Ritik's contribution graph" />
-</div>
-
-## `> contribution_grid --animate`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg" alt="Animated snake moving through Ritik's contribution graph" />
+  <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritikthakur22&repo=wifi_analyzer_app&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="WiFi Analyzer App" />
+  </a>
 </div>
 
 <div align="center">
