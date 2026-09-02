@@ -56,11 +56,19 @@ ritik@github:~$ I turn engineering ideas into practical applications.
           <img src="assets/qr_scanner.png" alt="Ritik QR Scanner" width="120" />
           <br /><b>QR Scanner</b>
         </a>
+        <br />
+        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app" target="_blank">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="120" />
+        </a>
       </td>
       <td align="center">
         <a href="https://github.com/ritikthakur22/fastshare_app">
           <img src="assets/fastshare_app.png" alt="FastShare App" width="120" />
           <br /><b>FastShare App</b>
+        </a>
+        <br />
+        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare" target="_blank">
+          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="120" />
         </a>
       </td>
       <td align="center">
