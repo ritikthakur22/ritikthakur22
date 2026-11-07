@@ -5,9 +5,9 @@
 
   <br /><br />
 
-  <a href="https://ritikthakur.com.np"><img src="https://img.shields.io/badge/Portfolio-ritikthakur.com.np-00D9FF?style=for-the-badge&labelColor=050816&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ritikthakur22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=050816&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzR2MjAuNTJDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1QzIzLjIgMjQgMjQgMjMuMjMgMjQgMjIuMjZWMS43NEMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
-  <a href="mailto:contact@ritikthakur.com.np"><img src="https://img.shields.io/badge/Email-contact@ritikthakur.com.np-00B4D8?style=for-the-badge&labelColor=050816&logo=maildotru&logoColor=00D9FF" alt="Email contact@ritikthakur.com.np" /></a>
+  <a href="https://ritikthakur.com.np"><img src="https://img.shields.io/badge/Portfolio-0B1A2E?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ritikthakur22/"><img src="https://img.shields.io/badge/LinkedIn-0B1A2E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzR2MjAuNTJDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1QzIzLjIgMjQgMjQgMjMuMjMgMjQgMjIuMjZWMS43NEMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="mailto:contact@ritikthakur.com.np"><img src="https://img.shields.io/badge/Email-0B1A2E?style=for-the-badge&logo=maildotru&logoColor=00D9FF" alt="Email" /></a>
 </div>
 
 <br />
@@ -122,7 +122,6 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [**Portfolio**](https://github.com/ritikthakur22/portfolio) · [live](https://ritikthakur.com.np) | My site, with motion design and an AI assistant that answers questions about my work | Next.js · GSAP · Vercel AI SDK |
-| [**Guptrix**](https://github.com/ritikthakur22/guptrix) | End-to-end encrypted notes and attachments | Next.js · Express · Android |
 | [**Todo v2**](https://github.com/ritikthakur22/Todo) · [demo](https://todocrdy.vercel.app) | Real-time collaborative tasks with Nepali dates | React · Node.js · Socket.io |
 | [**Wi-Fi Analyzer**](https://github.com/ritikthakur22/wifi_analyzer_app) | Network details, signal graphs and LAN device discovery | Kotlin · Compose |
 | [**Echo Loop**](https://github.com/ritikthakur22/Echo_Loop) · [demo](https://echo-loop-rho.vercel.app) | Delayed auditory feedback app for web and Android | React · Capacitor |
