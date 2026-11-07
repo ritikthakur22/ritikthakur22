@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="24" viewBox="0 0 880 24" role="presentation">
+  <style>
+    .l { stroke-dasharray: 420; stroke-dashoffset: 420; animation: draw 1.4s cubic-bezier(.65,0,.35,1) forwards; }
+    .gem { transform-origin: 440px 12px; transform-box: view-box; animation: spin 6s linear infinite; }
+    .spark { animation: run 4s ease-in-out 1.4s infinite; opacity: 0; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes run { 0% { transform: translateX(0); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(400px); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .l { stroke-dashoffset: 0; } }
+  </style>
+  <defs>
+    <!-- userSpaceOnUse: a flat line has a zero-height bbox, so a bbox gradient would paint nothing -->
+    <linearGradient id="fl" gradientUnits="userSpaceOnUse" x1="428" y1="0" x2="8" y2="0"><stop offset="0" stop-color="#00b4d8"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/></linearGradient>
+    <linearGradient id="fr" gradientUnits="userSpaceOnUse" x1="452" y1="0" x2="872" y2="0"><stop offset="0" stop-color="#00b4d8"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/></linearGradient>
+  </defs>
+  <!-- each half draws outward from the centre -->
+  <path class="l" d="M428 12H8" stroke="url(#fl)" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path class="l" d="M452 12H872" stroke="url(#fr)" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <polygon class="gem" points="440,4 448,12 440,20 432,12" fill="none" stroke="#00b4d8" stroke-width="2" stroke-linejoin="round"/>
+  <circle class="spark" cx="456" cy="12" r="2.5" fill="#00d9ff"/>
+</svg>

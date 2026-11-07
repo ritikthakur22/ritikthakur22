@@ -49,6 +49,18 @@ jobs:
       - name: collect 3D calendar into dist
         run: mv profile-3d-contrib dist/
 
+      # the other steps don't check out the repo; this one needs scripts/activity.py
+      - uses: actions/checkout@v5
+        with:
+          path: src
+
+      - name: generate recent activity cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 src/scripts/activity.py --selftest
+          python3 src/scripts/activity.py ritikthakur22 dist
+
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: push generated SVGs to the output branch

@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://ritikthakur.com.np">
-    <img src="assets/banner.svg" width="100%" alt="Ritik Thakur — Software Developer for web and mobile apps" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
+      <img src="assets/banner.svg" width="100%" alt="Ritik Thakur — Software Developer for web and mobile apps" />
+    </picture>
   </a>
 
   <br /><br />
@@ -12,6 +16,8 @@
 
 <br />
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## About me
 
 I build and ship web, Android and cross-platform apps. I'm a Computer Engineering student who writes React frontends and backend APIs in a professional team, and I've published Android apps to Google Play alongside my own products.
@@ -22,6 +28,8 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 - 🧠 Exploring applied AI: LLM APIs, local models, RAG and AI coding agents.
 - 🐧 Linux, VPS self-hosting, Android kernels and end-to-end encryption.
 - 📍 Nepal · open to remote freelance and full-time roles.
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Tech stack
 
@@ -38,6 +46,8 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   <b>DevOps &amp; tools</b><br />
   <img src="https://skillicons.dev/icons?i=git,githubactions,vercel,cloudflare,linux,bash,vscode,gradle&theme=dark" alt="Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" />
 </div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Live on Google Play
 
@@ -81,6 +91,8 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   </table>
 </div>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## Featured projects
 
 <div align="center">
@@ -117,6 +129,8 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   </table>
 </div>
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## More projects
 
 | Project | What it does | Built with |
@@ -130,9 +144,29 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 | [**Daffodils School Site**](https://github.com/ritikthakur22/dps-site) | School website with a no-code admin panel | Next.js · Neon · Cloudinary |
 | [**Morphe Patches**](https://github.com/ritikthakur22/morphe-patches) | Patches for modifying Android apps | Java · Android |
 
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## Portfolio in motion
+
+<div align="center">
+  <a href="https://ritikthakur.com.np">
+    <img src="assets/portfolio-demo.webp" width="100%" alt="Scrolling through ritikthakur.com.np: animated hero, pinned project showcase, a case study and the chat assistant" />
+  </a>
+  <br />
+  <a href="https://ritikthakur.com.np"><b>Visit ritikthakur.com.np →</b></a>
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
 ## GitHub activity
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-light.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" width="100%" alt="Ritik's recent public GitHub activity" />
+  </picture>
+  <br /><br />
   <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
   <br /><br />
   <picture>

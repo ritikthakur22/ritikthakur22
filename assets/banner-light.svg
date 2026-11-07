@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ritik Thakur, Software Developer for web and mobile apps">
+  <style>
+    .name { font: 800 100px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; letter-spacing: -4px; }
+    .role { font: 500 28px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #46627a; opacity: 0; }
+    .small { font: 600 15px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; letter-spacing: .4px; }
+    .chip { fill: #ffffff; stroke: #cbe3ef; stroke-width: 1; }
+    .chiptxt { fill: #12324a; }
+    .muted { fill: #5b7689; }
+    .accent { fill: #0096c7; }
+    .rise { opacity: 0; animation: rise 1s cubic-bezier(.16,1,.3,1) forwards; }
+    .rise.d1 { animation-delay: .15s; }
+    .rise.d2 { animation-delay: 1.2s; }
+    .line { stroke: url(#lineg); stroke-width: 4; stroke-linecap: round; stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 1.2s .6s cubic-bezier(.65,0,.35,1) forwards; }
+    .r1 { animation: cycle 9s 1s infinite; }
+    .r2 { animation: cycle 9s 4s infinite; }
+    .r3 { animation: cycle 9s 7s infinite; }
+    .pulse { transform-origin: 82px 52px; transform-box: view-box; animation: pulse 2s ease-out infinite; }
+    .glow1 { animation: drift 14s ease-in-out infinite alternate; }
+    .glow2 { animation: drift2 18s ease-in-out infinite alternate; }
+    .orbit { transform-origin: 1040px 180px; transform-box: view-box; animation: spin 24s linear infinite; }
+    .lids { transform-origin: 1040px 168px; transform-box: view-box; animation: lids 4s infinite; }
+    .pupils { animation: look 6s ease-in-out infinite; }
+    .bot { animation: float 3.2s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(32px); } to { opacity: 1; transform: none; } }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes cycle { 0%, 100% { opacity: 0; } 4%, 30% { opacity: 1; } 34% { opacity: 0; } }
+    @keyframes pulse { 0% { transform: scale(1); opacity: .7; } 100% { transform: scale(3); opacity: 0; } }
+    @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-240px, 50px); } }
+    @keyframes drift2 { from { transform: translate(0, 0); } to { transform: translate(200px, -40px); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes lids { 0%, 92%, 100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+    @keyframes look { 0%, 100% { transform: translate(0, 0); } 25% { transform: translate(-4px, 1px); } 50% { transform: translate(3px, -2px); } 75% { transform: translate(-2px, 3px); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } .rise, .r1 { opacity: 1; } .line { stroke-dashoffset: 0; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7fcff"/><stop offset="1" stop-color="#e3f3fb"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d9ff" stop-opacity=".55"/><stop offset=".5" stop-color="#cbe3ef" stop-opacity=".9"/><stop offset="1" stop-color="#00d9ff" stop-opacity=".35"/></linearGradient>
+    <linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0b1a2e"/><stop offset=".55" stop-color="#0d3b5c"/><stop offset="1" stop-color="#0096c7"/></linearGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;1100 0;1100 0" keyTimes="0;.45;1" dur="6s" begin="1.6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="lineg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00d9ff"/><stop offset="1" stop-color="#00d9ff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#00b4d8" stop-opacity=".18"/><stop offset="1" stop-color="#00b4d8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#3b5bdb" stop-opacity=".10"/><stop offset="1" stop-color="#3b5bdb" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#0b3a57" fill-opacity=".08"/></pattern>
+    <clipPath id="card"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#dots)"/>
+    <circle class="glow1" cx="940" cy="110" r="340" fill="url(#g1)"/>
+    <circle class="glow2" cx="160" cy="330" r="300" fill="url(#g2)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="358.5" rx="23.5" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+
+  <!-- availability pill -->
+  <g class="rise">
+    <rect x="64" y="36" width="286" height="32" rx="16" class="chip"/>
+    <circle class="pulse" cx="82" cy="52" r="5" fill="#22c55e"/>
+    <circle cx="82" cy="52" r="5" fill="#22c55e"/>
+    <text x="96" y="57" class="small chiptxt">Open to remote &amp; full-time roles</text>
+  </g>
+  <text x="1136" y="57" text-anchor="end" class="small muted rise">ritikthakur.com.np</text>
+
+  <!-- name with a light sweep -->
+  <g class="rise d1">
+    <text x="58" y="180" class="name" fill="url(#nameg)">Ritik Thakur</text>
+    <text x="58" y="180" class="name" fill="url(#shine)">Ritik Thakur</text>
+  </g>
+  <line class="line" x1="64" y1="208" x2="624" y2="208"/>
+
+  <text x="64" y="256" class="role r1">Software Developer · Web &amp; Mobile Apps</text>
+  <text x="64" y="256" class="role r2">React · Next.js · React Native · FastAPI · NestJS</text>
+  <text x="64" y="256" class="role r3">Shipping Android apps to Google Play</text>
+
+  <!-- stat chips -->
+  <g class="rise d2">
+    <rect x="64" y="288" width="208" height="36" rx="18" class="chip"/>
+    <text x="84" y="311" class="small chiptxt"><tspan class="accent">3</tspan>  apps on Google Play</text>
+    <rect x="284" y="288" width="184" height="36" rx="18" class="chip"/>
+    <text x="304" y="311" class="small chiptxt"><tspan class="accent">5</tspan>  shipped projects</text>
+    <rect x="480" y="288" width="200" height="36" rx="18" class="chip"/>
+    <text x="500" y="311" class="small chiptxt">Building since <tspan class="accent">2025</tspan></text>
+  </g>
+
+  <!-- assistant bot -->
+  <g class="orbit">
+    <circle cx="1040" cy="180" r="118" fill="none" stroke="#00d9ff" stroke-opacity=".25" stroke-width="1.5" stroke-dasharray="4 10"/>
+    <circle cx="1158" cy="180" r="5" class="accent"/>
+  </g>
+  <g class="bot">
+    <path fill="#00b4d8" d="M1040 100c-46 0-84 35-84 78 0 22 10 42 26 56l-8 33 37-18c9 3 19 5 29 5 46 0 84-35 84-78s-38-76-84-76z"/>
+    <g class="lids">
+      <ellipse cx="1013" cy="168" rx="21" ry="24" fill="#0b1a2e"/>
+      <ellipse cx="1067" cy="168" rx="21" ry="24" fill="#0b1a2e"/>
+      <g class="pupils">
+        <circle cx="1013" cy="168" r="10" fill="#00d9ff"/>
+        <circle cx="1067" cy="168" r="10" fill="#00d9ff"/>
+      </g>
+    </g>
+  </g>
+</svg>
