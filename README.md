@@ -1,119 +1,153 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Ritik Thakur — Computer Engineering Student and Open-Source Builder" />
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+one+commit+at+a+time.;C%23+%7C+Android+%7C+Linux+%7C+AI;Engineering+with+curiosity.+Gaming+with+precision." alt="Typing introduction" />
+  <a href="https://ritikthakur.com.np">
+    <img src="assets/banner.svg" width="100%" alt="Ritik Thakur — Software Developer for web and mobile apps" />
   </a>
-</div>
 
-<div align="center">
-  <a href="https://t.me/ritik7094"><img src="https://img.shields.io/badge/Telegram-00B4D8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://ritikthakur.com.np"><img src="https://img.shields.io/badge/Portfolio-102A43?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
-  <a href="mailto:ritikthakur@duck.com"><img src="https://img.shields.io/badge/Email-0B132B?style=for-the-badge&logo=protonmail&logoColor=00D9FF" alt="Email" /></a>
+  <br /><br />
+
+  <a href="https://ritikthakur.com.np"><img src="https://img.shields.io/badge/Portfolio-ritikthakur.com.np-00D9FF?style=for-the-badge&labelColor=050816&logo=googlechrome&logoColor=00D9FF" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ritikthakur22/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=050816&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzR2MjAuNTJDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1QzIzLjIgMjQgMjQgMjMuMjMgMjQgMjIuMjZWMS43NEMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
+  <a href="mailto:contact@ritikthakur.com.np"><img src="https://img.shields.io/badge/Email-contact@ritikthakur.com.np-00B4D8?style=for-the-badge&labelColor=050816&logo=maildotru&logoColor=00D9FF" alt="Email contact@ritikthakur.com.np" /></a>
 </div>
 
 <br />
 
-## `> whoami`
+## About me
 
-```text
-ritik@github:~$ I turn engineering ideas into practical applications.
-```
+I build and ship web, Android and cross-platform apps. I'm a Computer Engineering student who writes React frontends and backend APIs in a professional team, and I've published Android apps to Google Play alongside my own products.
 
-- 🎓 Computer Engineering student with a strong foundation in data structures and algorithms.
-- 🛠️ Building open-source apps across C#, Android, and the web.
-- 🐧 At home in Linux, VPS environments, and operating-system internals.
-- 🧠 Exploring applied AI and the systems that make software dependable.
-- 🎮 Gamer by passion; problem-solver by default.
+- 💼 **Software Developer Intern** at Baudhika Learning (Sep 2026 – present): React features, backend APIs, React Native and Google Play releases.
+- 🎓 **Bachelor of Computer Engineering** at ACEM, Tribhuvan University.
+- 📱 **3 apps live on Google Play** and 5 shipped projects since 2025.
+- 🧠 Exploring applied AI: LLM APIs, local models, RAG and AI coding agents.
+- 🐧 Linux, VPS self-hosting, Android kernels and end-to-end encryption.
+- 📍 Nepal · open to remote freelance and full-time roles.
 
-## `> stack --active`
+## Tech stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <br />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <b>Languages</b><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,py,java,cs,cpp,c&theme=dark" alt="TypeScript, JavaScript, Kotlin, Dart, Python, Java, C#, C++, C" />
+  <br /><br />
+  <b>Frontend &amp; mobile</b><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,androidstudio,flutter&theme=dark" alt="React, Next.js, Tailwind CSS, HTML, CSS, Android, Flutter" />
+  <br /><br />
+  <b>Backend &amp; data</b><br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,sqlite,prisma,firebase&theme=dark" alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, SQLite, Prisma, Firebase" />
+  <br /><br />
+  <b>DevOps &amp; tools</b><br />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vercel,cloudflare,linux,bash,vscode,gradle&theme=dark" alt="Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" />
 </div>
 
-## `> featured_projects`
+## Live on Google Play
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=520&lines=Shipped+to+Google+Play.;Open+source+on+GitHub.;Built+for+real+users." alt="Shipped to Google Play. Open source on GitHub. Built for real users." />
-  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=520&lines=From+idea+to+Google+Play.;Built+for+real+users.;Designed%2C+built+and+shipped+end+to+end." alt="From idea to Google Play. Built for real users." />
+  <br /><br />
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">
-          <img src="assets/qr_scanner.png" alt="Ritik QR Scanner" width="120" />
-          <br /><b>QR Scanner</b>
-        </a>
+      <td align="center" width="33%">
+        <img src="assets/eskool.png" width="88" alt="eSkool app icon" />
+        <h3>eSkool</h3>
+        School and college ERP for staff, students and parents
+        <br /><br />
+        <code>React Native</code> <code>Next.js</code> <code>NestJS</code>
+        <br /><br />
+        <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get eSkool on Google Play" /></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="assets/fastshare_app.png" width="88" alt="FastShare app icon" />
+        <h3>FastShare</h3>
+        Peer-to-peer file and clipboard sharing, no account, no cloud
+        <br /><br />
+        <code>WebRTC</code> <code>Node.js</code> <code>Android</code>
+        <br /><br />
+        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get FastShare on Google Play" /></a>
         <br />
-        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app" target="_blank">
-          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="120" />
-        </a>
+        <a href="https://fastshare.ritikthakur.com.np">Web app</a> · <a href="https://github.com/ritikthakur22/FastShare">Source</a>
       </td>
-      <td align="center">
-        <a href="https://github.com/ritikthakur22/fastshare_app">
-          <img src="assets/fastshare_app.png" alt="FastShare App" width="120" />
-          <br /><b>FastShare App</b>
-        </a>
+      <td align="center" width="33%">
+        <img src="assets/qr_scanner.png" width="88" alt="QR Scanner app icon" />
+        <h3>QR Scanner &amp; Reader</h3>
+        Fast, offline QR and barcode scanner with no ads or trackers
+        <br /><br />
+        <code>Kotlin</code> <code>Compose</code> <code>ZXing</code>
+        <br /><br />
+        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get QR Scanner on Google Play" /></a>
         <br />
-        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare" target="_blank">
-          <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="120" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ritikthakur22/scientific-calcr-pro">
-          <img src="assets/scientific_calcr_logo.jpg" alt="Scientific Calcr Pro" width="120" />
-          <br /><b>Scientific Calcr</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/ritikthakur22/FastShare">
-          <img src="assets/fastshare_site.png" alt="FastShare Site" width="120" />
-          <br /><b>FastShare Web</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/ritikthakur22/wifi_analyzer_app">
-          <img src="assets/wifi_analyzer_logo.jpg" alt="WiFi Analyzer App" width="120" />
-          <br /><b>WiFi Analyzer</b>
-        </a>
+        <a href="https://github.com/ritikthakur22/com.ritikqrscanner.app">Source</a>
       </td>
     </tr>
   </table>
 </div>
 
-## `> github --telemetry`
+## Featured projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://github.com/ritikthakur22/battery-info_app"><img src="assets/projects/powergyan.png" width="190" alt="PowerGyan battery dashboard" /></a>
+        <h3>PowerGyan</h3>
+        Battery analytics, alerts and widgets, plus root charge limiting
+        <br /><br />
+        <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code>
+        <br /><br />
+        <a href="https://github.com/ritikthakur22/battery-info_app/releases">Download</a> · <a href="https://github.com/ritikthakur22/battery-info_app">Source</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/ritikthakur22/scientific-calcr-pro"><img src="assets/projects/calcr-pro.png" width="190" alt="Scientific CalcR Pro calculator" /></a>
+        <h3>Scientific CalcR Pro</h3>
+        Graphing, equation solving, matrices, vectors and statistics
+        <br /><br />
+        <code>Flutter</code> <code>Riverpod</code> <code>fl_chart</code>
+        <br /><br />
+        <a href="https://github.com/ritikthakur22/scientific-calcr-pro/releases/latest">Download APK</a> · <a href="https://github.com/ritikthakur22/scientific-calcr-pro">Source</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/ritikthakur22/RTCalc"><img src="assets/projects/rtcalc.png" width="190" alt="RTCalc calculator" /></a>
+        <h3>RTCalc</h3>
+        Scientific calculator with history and a live NPR currency converter
+        <br /><br />
+        <code>Kotlin</code> <code>Android</code>
+        <br /><br />
+        <a href="https://github.com/ritikthakur22/RTCalc">Source</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## More projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Portfolio**](https://github.com/ritikthakur22/portfolio) · [live](https://ritikthakur.com.np) | My site, with motion design and an AI assistant that answers questions about my work | Next.js · GSAP · Vercel AI SDK |
+| [**Guptrix**](https://github.com/ritikthakur22/guptrix) | End-to-end encrypted notes and attachments | Next.js · Express · Android |
+| [**Todo v2**](https://github.com/ritikthakur22/Todo) · [demo](https://todocrdy.vercel.app) | Real-time collaborative tasks with Nepali dates | React · Node.js · Socket.io |
+| [**Wi-Fi Analyzer**](https://github.com/ritikthakur22/wifi_analyzer_app) | Network details, signal graphs and LAN device discovery | Kotlin · Compose |
+| [**Echo Loop**](https://github.com/ritikthakur22/Echo_Loop) · [demo](https://echo-loop-rho.vercel.app) | Delayed auditory feedback app for web and Android | React · Capacitor |
+| [**FaceTrack**](https://github.com/ritikthakur22/attendance_using_face) | Face-recognition attendance with CSV and Excel reports | Python · Flask · OpenCV |
+| [**Voice Mail**](https://github.com/ritikthakur22/voice_based_email) | Webmail you can use entirely by voice | FastAPI · faster-whisper |
+| [**Daffodils School Site**](https://github.com/ritikthakur22/dps-site) | School website with a no-code admin panel | Next.js · Neon · Cloudinary |
+| [**Morphe Patches**](https://github.com/ritikthakur22/morphe-patches) | Patches for modifying Android apps | Java · Android |
+
+## GitHub activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
-</div>
-
-## `> contribution_grid --animate`
-
-<div align="center">
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" alt="Ritik's contributions as a 3D calendar" />
+  </picture>
+  <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake.svg?v=1" />
     <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" alt="Animated snake moving through Ritik's contribution graph" />
   </picture>
-</div>
-
-<div align="center">
+  <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph.svg" />
@@ -121,20 +155,11 @@ ritik@github:~$ I turn engineering ideas into practical applications.
   </picture>
 </div>
 
-## `> contribution_grid --3d`
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" alt="Ritik's contributions as a 3D calendar" />
-  </picture>
-</div>
-
-<div align="center">
+  <br />
   <img src="https://komarev.com/ghpvc/?username=ritikthakur22&label=PROFILE+VIEWS&color=00B4D8&style=flat-square" alt="Profile views" />
   <br /><br />
   <i>"Stay curious. Keep shipping."</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=110&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=110&section=footer" alt="" />
 </div>
