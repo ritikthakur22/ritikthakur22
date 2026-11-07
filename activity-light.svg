@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="358" viewBox="0 0 880 358" role="img" aria-label="Recent GitHub activity">
+<style>
+.t { font: 500 15px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #12324a; }
+.m { font: 500 13px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #5b7689; }
+.h { font: 700 13px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; letter-spacing: 2px; fill: #00b4d8; }
+.row { opacity: 0; animation: in .6s cubic-bezier(.16,1,.3,1) forwards; }
+@keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .row { animation: none; opacity: 1; } }
+</style>
+<rect x=".5" y=".5" width="879" height="357" rx="16" fill="#f7fcff" stroke="#cbe3ef"/>
+<text x="24" y="38" class="h">RECENT ACTIVITY</text>
+<text x="856" y="38" class="m" text-anchor="end">updated Nov 07, 2026</text>
+<g class="row" style="animation-delay:0.15s"><rect x="20" y="64" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="83" r="5" fill="#00d9ff"/><text x="60" y="88" class="t">Pushed updates to com.ritikqrscanner.app</text><text x="844" y="88" class="m" text-anchor="end">2d ago</text></g><g class="row" style="animation-delay:0.27s"><rect x="20" y="110" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="129" r="5" fill="#f5b301"/><text x="60" y="134" class="t">Starred dotnetdreamer/open-screenshot-generator</text><text x="844" y="134" class="m" text-anchor="end">5d ago</text></g><g class="row" style="animation-delay:0.39s"><rect x="20" y="156" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="175" r="5" fill="#00d9ff"/><text x="60" y="180" class="t">Pushed updates to battery-info_app  ×2</text><text x="844" y="180" class="m" text-anchor="end">9d ago</text></g><g class="row" style="animation-delay:0.51s"><rect x="20" y="202" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="221" r="5" fill="#22c55e"/><text x="60" y="226" class="t">Released v1.0.6 of battery-info_app</text><text x="844" y="226" class="m" text-anchor="end">9d ago</text></g><g class="row" style="animation-delay:0.63s"><rect x="20" y="248" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="267" r="5" fill="#00d9ff"/><text x="60" y="272" class="t">Pushed updates to wifi_analyzer_app</text><text x="844" y="272" class="m" text-anchor="end">17d ago</text></g><g class="row" style="animation-delay:0.75s"><rect x="20" y="294" width="840" height="38" rx="10" fill="#ffffff" stroke="#cbe3ef"/><circle cx="42" cy="313" r="5" fill="#22c55e"/><text x="60" y="318" class="t">Released v1.5.0 of wifi_analyzer_app</text><text x="844" y="318" class="m" text-anchor="end">17d ago</text></g>
+</svg>
