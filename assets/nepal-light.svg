@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="230" viewBox="0 0 880 230" role="img" aria-label="Based in Nepal, open to remote work worldwide">
+<style>
+.h { font: 800 30px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #0b1a2e; letter-spacing: -.5px; }
+.m { font: 500 15px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #46627a; }
+.k { font: 700 12px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; letter-spacing: 2px; fill: #00b4d8; }
+.lbl { font: 700 13px "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif; fill: #0b1a2e; }
+.tw { animation: tw 3s ease-in-out infinite; }
+.flag { transform-box: view-box; animation: sway 2.4s ease-in-out infinite; }
+.pin { animation: bob 2s ease-in-out infinite; }
+.ring { transform-origin: 632px 152px; transform-box: view-box; animation: ping 2s ease-out infinite; }
+.cloud { animation: drift 30s linear infinite alternate; } .c2 { animation-duration: 22s; animation-direction: alternate-reverse; }
+@keyframes tw { 0%, 100% { opacity: .25; } 50% { opacity: 1; } }
+@keyframes sway { 0%, 100% { transform: rotate(-6deg); } 50% { transform: rotate(6deg); } }
+@keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+@keyframes ping { 0% { transform: scale(.4); opacity: .8; } 100% { transform: scale(2.2); opacity: 0; } }
+@keyframes drift { from { transform: translateX(-40px); } to { transform: translateX(60px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4e6"/><stop offset="1" stop-color="#dff1fb"/></linearGradient>
+<clipPath id="card"><rect width="880" height="230" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="880" height="230" fill="url(#sky)"/>
+<circle cx="812" cy="52" r="34" fill="#ffd27a" opacity=".35"/><circle cx="812" cy="52" r="20" fill="#ffc24d"/><g class="cloud" fill="#ffffff" opacity=".85"><ellipse cx="520" cy="58" rx="38" ry="11"/><ellipse cx="545" cy="50" rx="22" ry="12"/></g><g class="cloud c2" fill="#ffffff" opacity=".7"><ellipse cx="690" cy="88" rx="30" ry="8"/><ellipse cx="708" cy="82" rx="16" ry="9"/></g>
+<path d="M0.0 205.0 L29.3 181.9 L61.8 109.6 L117.3 168.9 L176.0 192.6 L225.5 135.5 L264.0 161.9 L322.7 163.1 L356.1 126.3 L410.7 172.9 L469.3 173.8 L528.1 113.3 L557.3 182.5 L616.0 177.3 L665.9 92.1 L704.0 164.8 L762.7 170.3 L814.2 135.5 L850.7 169.3 L880.0 205.0 L880 230 L0 230 Z" fill="#c7dbe9"/><g fill="#ffffff" opacity=".9"><path d="M61.8 109.6 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/><path d="M225.5 135.5 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/><path d="M356.1 126.3 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/><path d="M528.1 113.3 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/><path d="M665.9 92.1 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/><path d="M814.2 135.5 l16.0 17.6 l-7.2 -4.0 l-8.8 5.6 l-8.0 -4.8 l-8.0 4.0 Z"/></g>
+<path d="M0.0 215.0 L22.0 186.9 L53.4 146.8 L88.0 192.4 L132.0 202.6 L165.3 145.8 L198.0 191.4 L242.0 204.5 L279.3 137.9 L308.0 195.8 L352.0 191.8 L371.5 137.3 L418.0 201.4 L462.0 192.6 L510.9 131.3 L528.0 189.2 L572.0 195.3 L593.7 167.7 L638.0 201.0 L682.0 205.9 L704.8 159.0 L748.0 192.4 L792.0 195.5 L823.0 136.0 L858.0 188.6 L880.0 215.0 L880 230 L0 230 Z" fill="#9dbdd5"/><g fill="#ffffff" opacity=".75"><path d="M53.4 146.8 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M165.3 145.8 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M279.3 137.9 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M371.5 137.3 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M510.9 131.3 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M593.7 167.7 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M704.8 159.0 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/><path d="M823.0 136.0 l11.0 12.1 l-5.0 -2.8 l-6.1 3.8 l-5.5 -3.3 l-5.5 2.8 Z"/></g>
+<path d="M0.0 228.0 L16.0 213.5 L50.2 184.0 L64.0 220.3 L96.0 217.5 L122.2 194.7 L144.0 219.8 L176.0 221.0 L192.6 194.2 L224.0 216.1 L256.0 215.5 L268.6 201.5 L304.0 216.5 L336.0 219.5 L360.3 188.4 L384.0 220.6 L416.0 216.1 L446.8 191.3 L464.0 214.3 L496.0 215.0 L531.3 195.9 L544.0 217.1 L576.0 220.0 L601.7 189.9 L624.0 220.3 L656.0 216.9 L679.4 188.7 L704.0 216.2 L736.0 221.5 L763.4 199.6 L784.0 217.6 L816.0 222.2 L847.6 199.3 L864.0 220.1 L880.0 228.0 L880 230 L0 230 Z" fill="#6d98b8"/>
+<line x1="420" y1="20" x2="420" y2="96" stroke="#46627a" stroke-width="2"/>
+<line x1="700" y1="34" x2="700" y2="110" stroke="#46627a" stroke-width="2"/>
+<path d="M420 26 Q560.0 85.0 700 40" fill="none" stroke="#46627a" stroke-width="1.2"/>
+<rect class="flag" style="transform-origin:430.0px 30.1px;animation-delay:0.00s" x="423.0" y="30.1" width="14" height="18" rx="1.5" fill="#1f6fd1"/><rect class="flag" style="transform-origin:450.0px 37.4px;animation-delay:-0.23s" x="443.0" y="37.4" width="14" height="18" rx="1.5" fill="#f4f4f4" stroke="#c9d3dd" stroke-width=".6"/><rect class="flag" style="transform-origin:470.0px 43.8px;animation-delay:-0.46s" x="463.0" y="43.8" width="14" height="18" rx="1.5" fill="#d62828"/><rect class="flag" style="transform-origin:490.0px 49.0px;animation-delay:-0.69s" x="483.0" y="49.0" width="14" height="18" rx="1.5" fill="#2a9d4b"/><rect class="flag" style="transform-origin:510.0px 53.2px;animation-delay:-0.92s" x="503.0" y="53.2" width="14" height="18" rx="1.5" fill="#f2c230"/><rect class="flag" style="transform-origin:530.0px 56.3px;animation-delay:-1.15s" x="523.0" y="56.3" width="14" height="18" rx="1.5" fill="#1f6fd1"/><rect class="flag" style="transform-origin:550.0px 58.4px;animation-delay:-1.38s" x="543.0" y="58.4" width="14" height="18" rx="1.5" fill="#f4f4f4" stroke="#c9d3dd" stroke-width=".6"/><rect class="flag" style="transform-origin:570.0px 59.4px;animation-delay:-1.61s" x="563.0" y="59.4" width="14" height="18" rx="1.5" fill="#d62828"/><rect class="flag" style="transform-origin:590.0px 59.3px;animation-delay:-1.84s" x="583.0" y="59.3" width="14" height="18" rx="1.5" fill="#2a9d4b"/><rect class="flag" style="transform-origin:610.0px 58.2px;animation-delay:-2.07s" x="603.0" y="58.2" width="14" height="18" rx="1.5" fill="#f2c230"/><rect class="flag" style="transform-origin:630.0px 56.0px;animation-delay:-2.30s" x="623.0" y="56.0" width="14" height="18" rx="1.5" fill="#1f6fd1"/><rect class="flag" style="transform-origin:650.0px 52.8px;animation-delay:-2.53s" x="643.0" y="52.8" width="14" height="18" rx="1.5" fill="#f4f4f4" stroke="#c9d3dd" stroke-width=".6"/><rect class="flag" style="transform-origin:670.0px 48.4px;animation-delay:-2.76s" x="663.0" y="48.4" width="14" height="18" rx="1.5" fill="#d62828"/><rect class="flag" style="transform-origin:690.0px 43.1px;animation-delay:-2.99s" x="683.0" y="43.1" width="14" height="18" rx="1.5" fill="#2a9d4b"/>
+<ellipse class="ring" cx="632" cy="152" rx="12" ry="4" fill="none" stroke="#00d9ff" stroke-width="2"/>
+<g class="pin"><path d="M632 150c-12-15-18-23-18-31a18 18 0 0 1 36 0c0 8-6 16-18 31z" fill="#e63946"/><circle cx="632" cy="118" r="6.5" fill="#fff"/></g>
+<rect x="656" y="104" width="62" height="24" rx="12" fill="#fff4e6" opacity=".9"/>
+<text x="687" y="121" class="lbl" text-anchor="middle">Nepal</text>
+</g>
+<rect x=".75" y=".75" width="878.5" height="228.5" rx="18" fill="none" stroke="#cbe3ef" stroke-width="1.5"/>
+<text x="36" y="48" class="k">WHERE I WORK FROM</text>
+<text x="36" y="86" class="h">Based in Nepal</text>
+<text x="36" y="112" class="m">Open to remote work worldwide · UTC+5:45</text>
+</svg>

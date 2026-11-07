@@ -22,7 +22,7 @@
 
 I build and ship web, Android and cross-platform apps. I'm a Computer Engineering student who writes React frontends and backend APIs in a professional team, and I've published Android apps to Google Play alongside my own products.
 
-<p align="center"><img src="assets/code-card.svg" width="100%" alt="const ritik = { role: Software Developer, stack: React, Next.js, React Native, FastAPI, shipped: eSkool, FastShare, QR Scanner, openTo: remote and full-time roles }" /></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/code-card.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/code-card-light.svg" /><img src="assets/code-card.svg" width="100%" alt="const ritik = { role: Software Developer, stack: React, Next.js, React Native, FastAPI, shipped: eSkool, FastShare, QR Scanner, openTo: remote and full-time roles }" /></picture></p>
 
 - 💼 **Software Developer Intern** at Baudhika Learning (Sep 2026 – present): React features, backend APIs, React Native and Google Play releases.
 - 🎓 **Bachelor of Computer Engineering** at ACEM, Tribhuvan University.
@@ -36,7 +36,7 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 ## Tech stack
 
 <div align="center">
-  <img src="assets/stack-ribbon.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Kotlin, Dart, Python, Java, C#, C++, C, React, Next.js, Tailwind CSS, HTML, CSS, Android, Flutter, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQLite, Prisma, Firebase, Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-ribbon.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/stack-ribbon-light.svg" /><img src="assets/stack-ribbon.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Kotlin, Dart, Python, Java, C#, C++, C, React, Next.js, Tailwind CSS, HTML, CSS, Android, Flutter, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQLite, Prisma, Firebase, Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" /></picture>
 </div>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -49,19 +49,19 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><img src="assets/cards/eskool.svg" width="100%" alt="eSkool — School and college ERP for staff, students and parents" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/eskool.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/eskool-light.svg" /><img src="assets/cards/eskool.svg" width="100%" alt="eSkool — School and college ERP for staff, students and parents" /></picture></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get eSkool on Google Play" /></a>
       </td>
       <td align="center" width="33%">
-        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><img src="assets/cards/fastshare.svg" width="100%" alt="FastShare — Peer-to-peer file and clipboard sharing, no account, no cloud" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/fastshare.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/fastshare-light.svg" /><img src="assets/cards/fastshare.svg" width="100%" alt="FastShare — Peer-to-peer file and clipboard sharing, no account, no cloud" /></picture></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get FastShare on Google Play" /></a>
         <br />
         <a href="https://fastshare.ritikthakur.com.np">Web app</a> · <a href="https://github.com/ritikthakur22/FastShare">Source</a>
       </td>
       <td align="center" width="33%">
-        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><img src="assets/cards/qr.svg" width="100%" alt="QR Scanner &amp; Reader — Fast, offline QR and barcode scanner with no ads or trackers" /></a>
+        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/qr.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/qr-light.svg" /><img src="assets/cards/qr.svg" width="100%" alt="QR Scanner &amp; Reader — Fast, offline QR and barcode scanner with no ads or trackers" /></picture></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get QR Scanner on Google Play" /></a>
         <br />
@@ -79,29 +79,17 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://github.com/ritikthakur22/battery-info_app"><img src="assets/projects/powergyan.png" width="190" alt="PowerGyan battery dashboard" /></a>
-        <h3>PowerGyan</h3>
-        Battery analytics, alerts and widgets, plus root charge limiting
-        <br /><br />
-        <code>Kotlin</code> <code>Magisk</code> <code>KernelSU</code>
+        <a href="https://github.com/ritikthakur22/battery-info_app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/powergyan.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/powergyan-light.svg" /><img src="assets/cards/powergyan.svg" width="100%" alt="PowerGyan: Battery analytics, alerts and widgets, plus root charge limiting" /></picture></a>
         <br /><br />
         <a href="https://github.com/ritikthakur22/battery-info_app/releases">Download</a> · <a href="https://github.com/ritikthakur22/battery-info_app">Source</a>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/ritikthakur22/scientific-calcr-pro"><img src="assets/projects/calcr-pro.png" width="190" alt="Scientific CalcR Pro calculator" /></a>
-        <h3>Scientific CalcR Pro</h3>
-        Graphing, equation solving, matrices, vectors and statistics
-        <br /><br />
-        <code>Flutter</code> <code>Riverpod</code> <code>fl_chart</code>
+        <a href="https://github.com/ritikthakur22/scientific-calcr-pro"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/calcr.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/calcr-light.svg" /><img src="assets/cards/calcr.svg" width="100%" alt="Scientific CalcR Pro: Graphing, equation solving, matrices, vectors and statistics" /></picture></a>
         <br /><br />
         <a href="https://github.com/ritikthakur22/scientific-calcr-pro/releases/latest">Download APK</a> · <a href="https://github.com/ritikthakur22/scientific-calcr-pro">Source</a>
       </td>
       <td align="center" width="33%">
-        <a href="https://github.com/ritikthakur22/RTCalc"><img src="assets/projects/rtcalc.png" width="190" alt="RTCalc calculator" /></a>
-        <h3>RTCalc</h3>
-        Scientific calculator with history and a live NPR currency converter
-        <br /><br />
-        <code>Kotlin</code> <code>Android</code>
+        <a href="https://github.com/ritikthakur22/RTCalc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/rtcalc.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/cards/rtcalc-light.svg" /><img src="assets/cards/rtcalc.svg" width="100%" alt="RTCalc: Scientific calculator with history and a live NPR currency converter" /></picture></a>
         <br /><br />
         <a href="https://github.com/ritikthakur22/RTCalc">Source</a>
       </td>
@@ -141,7 +129,7 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 ## Ask my assistant
 
 <div align="center">
-  <a href="https://ritikthakur.com.np"><img src="assets/chat-card.svg" width="100%" alt="A sample chat with Ritik's AI assistant. Open ritikthakur.com.np to chat with it for real." /></a>
+  <a href="https://ritikthakur.com.np"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/chat-card.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/chat-card-light.svg" /><img src="assets/chat-card.svg" width="100%" alt="A sample chat with Ritik's AI assistant. Open ritikthakur.com.np to chat with it for real." /></picture></a>
   <br />
   A preview, since GitHub can't run a chatbot. Chat with the real assistant on <a href="https://ritikthakur.com.np">ritikthakur.com.np</a>.
 </div>
@@ -155,6 +143,12 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-light.svg" />
     <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" width="100%" alt="Ritik's recent public GitHub activity" />
+  </picture>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-light.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-dark.svg" width="100%" alt="Latest releases across Ritik's repos" />
   </picture>
   <br /><br />
   <picture>
@@ -185,6 +179,16 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph.svg" />
     <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating through Ritik's contribution graph" />
+  </picture>
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/nepal.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/nepal-light.svg" />
+    <img src="assets/nepal.svg" width="100%" alt="Based in Nepal, open to remote work worldwide (UTC+5:45)" />
   </picture>
 </div>
 

@@ -1,4 +1,4 @@
-"""Build assets/stack-ribbon.svg: two rows of tech icons scrolling in opposite directions.
+"""Build assets/stack-ribbon.svg (and -light.svg): two rows of tech icons scrolling in opposite directions.
 
 Icons come from skillicons.dev (MIT) once, at build time, and are embedded, so the
 README doesn't depend on that site staying up. Re-run after changing ROWS:
@@ -14,8 +14,8 @@ SIZE, GAP, W, ROW_H = 56, 18, 880, 76
 STEP = SIZE + GAP
 
 
-def icon(name):
-    req = urllib.request.Request(f"https://skillicons.dev/icons?i={name}&theme=dark", headers={"User-Agent": "profile-ribbon"})
+def icon(name, theme):
+    req = urllib.request.Request(f"https://skillicons.dev/icons?i={name}&theme={theme}", headers={"User-Agent": "profile-ribbon"})
     with urllib.request.urlopen(req, timeout=30) as r:
         svg = r.read().decode()
     assert "<svg" in svg and len(svg) > 300, f"unknown icon {name}"
@@ -26,8 +26,8 @@ def icon(name):
     return re.sub(r'<svg[^>]*?width="48" height="48"', "<svg", svg.strip(), count=1)
 
 
-def build():
-    cache = {n: icon(n) for row in ROWS for n in row}
+def build(theme):
+    cache = {n: icon(n, theme) for row in ROWS for n in row}
     rows = []
     for r, names in enumerate(ROWS):
         span = len(names) * STEP
@@ -57,8 +57,9 @@ def build():
 
 
 if __name__ == "__main__":
-    out = build()
-    assert len(re.findall(r"<svg x=", out)) == 2 * sum(len(r) for r in ROWS)
-    with open("assets/stack-ribbon.svg", "w") as f:
-        f.write(out)
-    print(f"wrote assets/stack-ribbon.svg ({len(out) // 1024} KB)")
+    for theme, path in (("dark", "assets/stack-ribbon.svg"), ("light", "assets/stack-ribbon-light.svg")):
+        out = build(theme)
+        assert len(re.findall(r"<svg x=", out)) == 2 * sum(len(r) for r in ROWS)
+        with open(path, "w") as f:
+            f.write(out)
+        print(f"wrote {path} ({len(out) // 1024} KB)")

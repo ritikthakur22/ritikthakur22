@@ -54,7 +54,7 @@ jobs:
         with:
           path: src
 
-      - name: generate activity and year-in-review cards
+      - name: generate activity, year-in-review and release cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -62,6 +62,8 @@ jobs:
           python3 src/scripts/activity.py ritikthakur22 dist
           python3 src/scripts/year.py --selftest
           python3 src/scripts/year.py ritikthakur22 dist
+          python3 src/scripts/releases.py --selftest
+          python3 src/scripts/releases.py ritikthakur22 dist
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
