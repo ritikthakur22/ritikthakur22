@@ -27,6 +27,23 @@ def fetch(user, year):
     return data["data"]["user"]["contributionsCollection"]
 
 
+def roll(text, x, y, size, cls, uid, delay=0.0):
+    """Odometer-style number: each digit spins up from 0 to its value. Other characters stay still."""
+    adv = {",": .3, "d": .62}
+    out, L = [], size * 1.25
+    for i, ch in enumerate(text):
+        w = size * adv.get(ch, .6)
+        if ch.isdigit():
+            d = int(ch)
+            strip = "".join(f'<text x="{x:.1f}" y="{y + k * L:.1f}" class="{cls}">{k % 10}</text>' for k in range(20))
+            out.append(f'<clipPath id="{uid}{i}"><rect x="{x - 2:.1f}" y="{y - size:.1f}" width="{w + 4:.1f}" height="{size * 1.3:.1f}"/></clipPath>'
+                       f'<g clip-path="url(#{uid}{i})"><g class="roll" style="--t:{-(10 + d) * L:.1f}px;animation-delay:{delay + i * .06:.2f}s">{strip}</g></g>')
+        else:
+            out.append(f'<text x="{x:.1f}" y="{y:.1f}" class="{cls}">{ch}</text>')
+        x += w
+    return "".join(out)
+
+
 def stats(cc, year):
     days = [(d["date"], d["contributionCount"]) for w in cc["contributionCalendar"]["weeks"]
             for d in w["contributionDays"] if d["date"].startswith(str(year))]
@@ -48,7 +65,7 @@ def svg(s, year, theme, through):
     tiles = [(f"{s['total']:,}", "contributions"), (f"{s['commits']:,}", "commits"),
              (str(s["repos"]), "repos created"), (f"{s['best']}d", "longest streak"), (str(s["active"]), "active days")]
     tile_svg = "".join(
-        f'<g class="up" style="animation-delay:{.1 + i * .08:.2f}s"><text x="{40 + i * 112}" y="112" class="big">{v}</text>'
+        f'<g class="up" style="animation-delay:{.1 + i * .08:.2f}s">{roll(v, 40 + i * 112, 112, 30, "big", f"r{i}_", .2 + i * .1)}'
         f'<text x="{40 + i * 112}" y="134" class="m">{label}</text></g>' for i, (v, label) in enumerate(tiles))
     top = max(s["months"]) or 1
     bars = []
@@ -68,7 +85,10 @@ def svg(s, year, theme, through):
 .bar {{ transform-origin: 0 216px; transform-box: view-box; transform: scaleY(0); animation: grow .9s cubic-bezier(.16,1,.3,1) forwards; }}
 @keyframes up {{ from {{ opacity: 0; transform: translateY(12px); }} to {{ opacity: 1; transform: none; }} }}
 @keyframes grow {{ to {{ transform: scaleY(1); }} }}
-@media (prefers-reduced-motion: reduce) {{ .up, .bar {{ animation: none; opacity: 1; transform: none; }} }}
+.big {{ font-variant-numeric: tabular-nums; }}
+.roll {{ animation: roll 1.6s cubic-bezier(.16,1,.3,1) forwards; }}
+@keyframes roll {{ to {{ transform: translateY(var(--t)); }} }}
+@media (prefers-reduced-motion: reduce) {{ .up, .bar {{ animation: none; opacity: 1; transform: none; }} .roll {{ animation: none; transform: translateY(var(--t)); }} }}
 </style>
 <rect x=".5" y=".5" width="{w - 1}" height="{h - 1}" rx="16" fill="{c["bg"]}" stroke="{c["edge"]}"/>
 <text x="40" y="44" class="h">{year} IN REVIEW</text>
@@ -93,6 +113,8 @@ def selftest():
     assert sum(s["months"]) == s["total"] and s["active"] == 7 + sum(1 for d in range(365) if d % 10 == 0 and not 40 <= d < 47)
     out = svg(s, 2026, "light", datetime(2026, 11, 7))
     assert out.count('class="bar"') == 12 and "FEB" not in out and "Feb · " in out
+    r = roll("1,234", 0, 50, 30, "big", "t")
+    assert r.count('class="roll"') == 4 and '>,</text>' in r and "--t:-525.0px" in r  # digit 4 stops at strip index 14
     print("selftest ok")
 
 

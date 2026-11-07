@@ -49,31 +49,19 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="assets/eskool.png" width="88" alt="eSkool app icon" />
-        <h3>eSkool</h3>
-        School and college ERP for staff, students and parents
-        <br /><br />
-        <code>React Native</code> <code>Next.js</code> <code>NestJS</code>
+        <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><img src="assets/cards/eskool.svg" width="100%" alt="eSkool — School and college ERP for staff, students and parents" /></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.eskool.crdy"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get eSkool on Google Play" /></a>
       </td>
       <td align="center" width="33%">
-        <img src="assets/fastshare_app.png" width="88" alt="FastShare app icon" />
-        <h3>FastShare</h3>
-        Peer-to-peer file and clipboard sharing, no account, no cloud
-        <br /><br />
-        <code>WebRTC</code> <code>Node.js</code> <code>Android</code>
+        <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><img src="assets/cards/fastshare.svg" width="100%" alt="FastShare — Peer-to-peer file and clipboard sharing, no account, no cloud" /></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.crdy.fastshare"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get FastShare on Google Play" /></a>
         <br />
         <a href="https://fastshare.ritikthakur.com.np">Web app</a> · <a href="https://github.com/ritikthakur22/FastShare">Source</a>
       </td>
       <td align="center" width="33%">
-        <img src="assets/qr_scanner.png" width="88" alt="QR Scanner app icon" />
-        <h3>QR Scanner &amp; Reader</h3>
-        Fast, offline QR and barcode scanner with no ads or trackers
-        <br /><br />
-        <code>Kotlin</code> <code>Compose</code> <code>ZXing</code>
+        <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><img src="assets/cards/qr.svg" width="100%" alt="QR Scanner &amp; Reader — Fast, offline QR and barcode scanner with no ads or trackers" /></a>
         <br /><br />
         <a href="https://play.google.com/store/apps/details?id=com.ritikqrscanner.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" alt="Get QR Scanner on Google Play" /></a>
         <br />
@@ -146,6 +134,16 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   </a>
   <br />
   <a href="https://ritikthakur.com.np"><b>Visit ritikthakur.com.np →</b></a>
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
+
+## Ask my assistant
+
+<div align="center">
+  <a href="https://ritikthakur.com.np"><img src="assets/chat-card.svg" width="100%" alt="A sample chat with Ritik's AI assistant. Open ritikthakur.com.np to chat with it for real." /></a>
+  <br />
+  A preview, since GitHub can't run a chatbot. Chat with the real assistant on <a href="https://ritikthakur.com.np">ritikthakur.com.np</a>.
 </div>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
