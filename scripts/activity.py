@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 from xml.sax.saxutils import escape
 
 MAX_ROWS = 6
+HIDE = {"4jean/lav_sms"}  # repos never shown on the card; add more as "owner/name"
 THEMES = {
     "dark": dict(bg="#050816", edge="#1c3a57", text="#dcefff", muted="#6f8aa0", row="#0c1a2e"),
     "light": dict(bg="#f7fcff", edge="#cbe3ef", text="#12324a", muted="#5b7689", row="#ffffff"),
@@ -28,8 +29,8 @@ def rows(events, user):
     out, pushes = [], {}
     for e in sorted(events, key=lambda e: e["created_at"], reverse=True):
         repo, p, t = e["repo"]["name"], e.get("payload", {}), e["type"]
-        if repo == f"{user}/{user}":
-            continue  # skip this profile repo's own churn
+        if repo == f"{user}/{user}" or repo in HIDE:
+            continue  # skip this profile repo's own churn and hidden repos
         short = repo.split("/", 1)[1] if repo.startswith(user + "/") else repo
         day = e["created_at"][:10]
         if t == "PushEvent":
@@ -115,6 +116,7 @@ def selftest():
         ev("CreateEvent", "u/new", "2026-11-02T09:00:00Z", ref_type="branch"),
         ev("CreateEvent", "u/new", "2026-11-02T08:00:00Z", ref_type="repository"),
         ev("PullRequestEvent", "u/app", "2026-11-01T09:00:00Z", action="closed", pull_request={"number": 7, "merged": True}),
+        ev("WatchEvent", "4jean/lav_sms", "2026-11-01T08:00:00Z", action="started"),
     ]
     r = rows(events, "u")
     assert [t for _, t, _ in r] == ["Pushed updates to app  ×2", "Released v1.2 of app", "Starred other/lib",

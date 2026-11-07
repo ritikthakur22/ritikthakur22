@@ -34,17 +34,7 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 ## Tech stack
 
 <div align="center">
-  <b>Languages</b><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,py,java,cs,cpp,c&theme=dark" alt="TypeScript, JavaScript, Kotlin, Dart, Python, Java, C#, C++, C" />
-  <br /><br />
-  <b>Frontend &amp; mobile</b><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,androidstudio,flutter&theme=dark" alt="React, Next.js, Tailwind CSS, HTML, CSS, Android, Flutter" />
-  <br /><br />
-  <b>Backend &amp; data</b><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,sqlite,prisma,firebase&theme=dark" alt="Node.js, NestJS, Express, FastAPI, PostgreSQL, SQLite, Prisma, Firebase" />
-  <br /><br />
-  <b>DevOps &amp; tools</b><br />
-  <img src="https://skillicons.dev/icons?i=git,githubactions,vercel,cloudflare,linux,bash,vscode,gradle&theme=dark" alt="Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" />
+  <img src="assets/stack-ribbon.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Kotlin, Dart, Python, Java, C#, C++, C, React, Next.js, Tailwind CSS, HTML, CSS, Android, Flutter, Node.js, NestJS, Express, FastAPI, PostgreSQL, SQLite, Prisma, Firebase, Git, GitHub Actions, Vercel, Cloudflare, Linux, Bash, VS Code, Gradle" />
 </div>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
@@ -167,7 +157,17 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
     <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" width="100%" alt="Ritik's recent public GitHub activity" />
   </picture>
   <br /><br />
-  <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-light.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-dark.svg" width="100%" alt="This year on GitHub: contributions, commits, streak and busiest month" />
+  </picture>
+  <br /><br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ritikthakur22&theme=default&hide_border=true&background=F7FCFF&ring=0096C7&fire=0096C7&currStreakLabel=0096C7" />
+    <img src="https://streak-stats.demolab.com/?user=ritikthakur22&theme=tokyonight&hide_border=true&background=050816&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Ritik's contribution streak" />
+  </picture>
   <br /><br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" />
