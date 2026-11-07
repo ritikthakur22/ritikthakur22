@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="140" viewBox="0 0 880 140" preserveAspectRatio="none" role="presentation">
+  <style>
+    /* each path is two identical periods wide, so sliding it by one period loops seamlessly */
+    .w1 { animation: slide 14s linear infinite; }
+    .w2 { animation: slide 9s linear infinite reverse; }
+    .w3 { animation: slide 6s linear infinite; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-880px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#cfeef7"/><stop offset=".5" stop-color="#7fd6ea"/><stop offset="1" stop-color="#00b4d8"/></linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00b4d8"/><stop offset=".6" stop-color="#7fd6ea"/><stop offset="1" stop-color="#cfeef7"/></linearGradient>
+  </defs>
+  <path class="w1" fill="url(#a)" fill-opacity=".35" d="M0 70 C110 40 330 40 440 70 S770 100 880 70 C990 40 1210 40 1320 70 S1650 100 1760 70 V140 H0 Z"/>
+  <path class="w2" fill="url(#b)" fill-opacity=".45" d="M0 90 C150 60 290 120 440 90 S730 60 880 90 C1030 60 1170 120 1320 90 S1610 60 1760 90 V140 H0 Z"/>
+  <path class="w3" fill="url(#a)" d="M0 110 C120 95 320 125 440 110 S760 95 880 110 C1000 95 1200 125 1320 110 S1640 95 1760 110 V140 H0 Z"/>
+</svg>

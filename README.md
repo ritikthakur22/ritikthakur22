@@ -22,6 +22,8 @@
 
 I build and ship web, Android and cross-platform apps. I'm a Computer Engineering student who writes React frontends and backend APIs in a professional team, and I've published Android apps to Google Play alongside my own products.
 
+<p align="center"><img src="assets/code-card.svg" width="100%" alt="const ritik = { role: Software Developer, stack: React, Next.js, React Native, FastAPI, shipped: eSkool, FastShare, QR Scanner, openTo: remote and full-time roles }" /></p>
+
 - 💼 **Software Developer Intern** at Baudhika Learning (Sep 2026 – present): React features, backend APIs, React Native and Google Play releases.
 - 🎓 **Bachelor of Computer Engineering** at ACEM, Tribhuvan University.
 - 📱 **3 apps live on Google Play** and 5 shipped projects since 2025.
@@ -42,7 +44,7 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 ## Live on Google Play
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=520&lines=From+idea+to+Google+Play.;Built+for+real+users.;Designed%2C+built+and+shipped+end+to+end." alt="From idea to Google Play. Built for real users." />
+  <img src="assets/play-stage.svg" width="100%" alt="Screens from QR Scanner, eSkool and FastShare" />
   <br /><br />
   <table>
     <tr>
@@ -194,5 +196,9 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
   <br /><br />
   <i>"Stay curious. Keep shipping."</i>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=110&section=footer" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-wave.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-wave-light.svg" />
+    <img src="assets/footer-wave.svg" width="100%" alt="" />
+  </picture>
 </div>

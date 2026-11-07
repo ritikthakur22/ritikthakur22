@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="const ritik = { role: Software Developer, stack: React, Next.js, React Native, FastAPI, shipped: eSkool, FastShare, QR Scanner, openTo: remote and full-time roles }">
+  <style>
+    .c { font: 500 17px "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; white-space: pre; }
+    .k { fill: #c792ea; } .v { fill: #82aaff; } .p { fill: #89ddff; } .s { fill: #c3e88d; } .t { fill: #e6edf3; } .n { fill: #4b5d75; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+  <defs>
+    <!-- each line is revealed left to right by its own clip rect, one after another -->
+    <clipPath id="l1"><rect x="80" y="70" height="28" width="0"><animate attributeName="width" from="0" to="181" begin="0.30s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l2"><rect x="80" y="100" height="28" width="0"><animate attributeName="width" from="0" to="346" begin="1.00s" dur="1.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l3"><rect x="80" y="130" height="28" width="0"><animate attributeName="width" from="0" to="654" begin="2.30s" dur="2.32s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l4"><rect x="80" y="160" height="28" width="0"><animate attributeName="width" from="0" to="555" begin="4.72s" dur="1.96s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l5"><rect x="80" y="190" height="28" width="0"><animate attributeName="width" from="0" to="423" begin="6.78s" dur="1.48s" fill="freeze"/></rect></clipPath>
+    <clipPath id="l6"><rect x="80" y="220" height="28" width="0"><animate attributeName="width" from="0" to="38" begin="8.36s" dur="0.15s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x=".75" y=".75" width="878.5" height="298.5" rx="16" fill="#0b1220" stroke="#1c3a57" stroke-width="1.5"/>
+  <path d="M.75 16.75a16 16 0 0 1 16-16h846.5a16 16 0 0 1 16 16V44H.75z" fill="#0f1a2c"/>
+  <circle cx="28" cy="22" r="6" fill="#ff5f57"/><circle cx="48" cy="22" r="6" fill="#febc2e"/><circle cx="68" cy="22" r="6" fill="#28c840"/>
+  <text x="440" y="27" text-anchor="middle" class="c n" style="font-size:13px">ritik.ts</text>
+
+  <g class="c n"><text x="36" y="90">1</text><text x="36" y="120">2</text><text x="36" y="150">3</text><text x="36" y="180">4</text><text x="36" y="210">5</text><text x="36" y="240">6</text></g>
+
+  <text x="80" y="90" class="c" clip-path="url(#l1)"><tspan class="k">const</tspan><tspan class="t"> ritik </tspan><tspan class="p">= {</tspan></text>
+  <text x="80" y="120" class="c" clip-path="url(#l2)"><tspan class="t">  role</tspan><tspan class="p">: </tspan><tspan class="s">"Software Developer"</tspan><tspan class="p">,</tspan></text>
+  <text x="80" y="150" class="c" clip-path="url(#l3)"><tspan class="t">  stack</tspan><tspan class="p">: [</tspan><tspan class="s">"React"</tspan><tspan class="p">, </tspan><tspan class="s">"Next.js"</tspan><tspan class="p">, </tspan><tspan class="s">"React Native"</tspan><tspan class="p">, </tspan><tspan class="s">"FastAPI"</tspan><tspan class="p">],</tspan></text>
+  <text x="80" y="180" class="c" clip-path="url(#l4)"><tspan class="t">  shipped</tspan><tspan class="p">: [</tspan><tspan class="s">"eSkool"</tspan><tspan class="p">, </tspan><tspan class="s">"FastShare"</tspan><tspan class="p">, </tspan><tspan class="s">"QR Scanner"</tspan><tspan class="p">],</tspan></text>
+  <text x="80" y="210" class="c" clip-path="url(#l5)"><tspan class="t">  openTo</tspan><tspan class="p">: </tspan><tspan class="s">"remote &amp; full-time roles"</tspan><tspan class="p">,</tspan></text>
+  <text x="80" y="240" class="c" clip-path="url(#l6)"><tspan class="p">};</tspan></text>
+  <!-- group appears after typing ends; the rect inside blinks (CSS would override a set on the same element) -->
+  <g opacity="0"><set attributeName="opacity" to="1" begin="8.61s" fill="freeze"/><rect class="cursor" x="104" y="226" width="10" height="20" fill="#00d9ff"/></g>
+  <text x="80" y="276" class="c n" style="font-size:14px">// ritikthakur.com.np</text>
+</svg>
