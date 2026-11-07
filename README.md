@@ -99,21 +99,6 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
-## More projects
-
-| Project | What it does | Built with |
-| --- | --- | --- |
-| [**Portfolio**](https://github.com/ritikthakur22/portfolio) · [live](https://ritikthakur.com.np) | My site, with motion design and an AI assistant that answers questions about my work | Next.js · GSAP · Vercel AI SDK |
-| [**Todo v2**](https://github.com/ritikthakur22/Todo) · [demo](https://todocrdy.vercel.app) | Real-time collaborative tasks with Nepali dates | React · Node.js · Socket.io |
-| [**Wi-Fi Analyzer**](https://github.com/ritikthakur22/wifi_analyzer_app) | Network details, signal graphs and LAN device discovery | Kotlin · Compose |
-| [**Echo Loop**](https://github.com/ritikthakur22/Echo_Loop) · [demo](https://echo-loop-rho.vercel.app) | Delayed auditory feedback app for web and Android | React · Capacitor |
-| [**FaceTrack**](https://github.com/ritikthakur22/attendance_using_face) | Face-recognition attendance with CSV and Excel reports | Python · Flask · OpenCV |
-| [**Voice Mail**](https://github.com/ritikthakur22/voice_based_email) | Webmail you can use entirely by voice | FastAPI · faster-whisper |
-| [**Daffodils School Site**](https://github.com/ritikthakur22/dps-site) | School website with a no-code admin panel | Next.js · Neon · Cloudinary |
-| [**Morphe Patches**](https://github.com/ritikthakur22/morphe-patches) | Patches for modifying Android apps | Java · Android |
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
 ## Portfolio in motion
 
 <div align="center">
