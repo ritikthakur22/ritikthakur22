@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:102A43,100:00B4D8&height=240&section=header&text=Ritik%20Thakur&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Engineering%20Student%20%7C%20Open-Source%20Builder&descSize=18&descAlignY=57" alt="Ritik Thakur — Computer Engineering Student and Open-Source Builder" />
+  <img src="assets/banner.svg" width="100%" alt="Ritik Thakur — Computer Engineering Student and Open-Source Builder" />
 
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=720&lines=Building+useful+software%2C+one+commit+at+a+time.;C%23+%7C+Android+%7C+Linux+%7C+AI;Engineering+with+curiosity.+Gaming+with+precision." alt="Typing introduction" />
@@ -49,6 +49,8 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> featured_projects`
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=520&lines=Shipped+to+Google+Play.;Open+source+on+GitHub.;Built+for+real+users." alt="Shipped to Google Play. Open source on GitHub. Built for real users." />
+  <br />
   <table>
     <tr>
       <td align="center">
@@ -104,7 +106,29 @@ ritik@github:~$ I turn engineering ideas into practical applications.
 ## `> contribution_grid --animate`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" alt="Animated snake moving through Ritik's contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake.svg?v=1" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/github-contribution-grid-snake-dark.svg?v=1" alt="Animated snake moving through Ritik's contribution graph" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/pacman-contribution-graph-dark.svg" alt="Pac-Man eating through Ritik's contribution graph" />
+  </picture>
+</div>
+
+## `> contribution_grid --3d`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/profile-3d-contrib/profile-night-rainbow.svg" alt="Ritik's contributions as a 3D calendar" />
+  </picture>
 </div>
 
 <div align="center">
