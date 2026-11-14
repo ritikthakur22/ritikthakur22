@@ -125,18 +125,6 @@ I build and ship web, Android and cross-platform apps. I'm a Computer Engineerin
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-light.svg" />
-    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/activity-dark.svg" width="100%" alt="Ritik's recent public GitHub activity" />
-  </picture>
-  <br /><br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-light.svg" />
-    <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/releases-dark.svg" width="100%" alt="Latest releases across Ritik's repos" />
-  </picture>
-  <br /><br />
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-light.svg" />
     <img src="https://raw.githubusercontent.com/ritikthakur22/ritikthakur22/output/year-dark.svg" width="100%" alt="This year on GitHub: contributions, commits, streak and busiest month" />
